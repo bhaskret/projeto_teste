@@ -1,3 +1,5 @@
-morango 
+
 maracuja 
 laranja
+banana 
+kiwi
